@@ -1,5 +1,7 @@
-API для моего проекта YaTube https://github.com/Komappp/Yatube
+API для моего проекта YaTube 
 =====
+https://github.com/Komappp/Yatube
+
 
 Описание проекта
 ----------
